@@ -7,8 +7,8 @@
 
 ### 👩‍💻 About Me
 - 🎓 Final year CS & BS Student (Batch of 2026)
-- 🌱 Currently learning **AI, Deep Learning, Full Stack Web Development**
-- 🛠️ Technologies: `MERN Stack`, `Python`, `Java`, `PHP`, `MySQL`, `MongoDB`,`TensorFlow`, `Scikit-learn`, `OpenCV`, `Node.js`
+- 🌱 Currently learning `AI`,` Deep Learning`, `Full Stack Java Development`,`Web Development`
+- 🛠️ Technologies: `MERN Stack`, `Python`, `Java`, `PHP`, `MySQL`, `MongoDB`,`TensorFlow`, `Scikit-learn`, `OpenCV`, `React.js`
 - 🧠 Exploring: `Advanced Java`, `REST APIs`
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/harshithabs1) | harshithabs109@gmail.com
 - ✨ Fun fact: I love turning complex ideas into creative web apps 💡
@@ -50,18 +50,17 @@
 
 ### 📌 Projects
 
-- 🔍 **Smart Kitchen Assistant** – AI-based recipe planner using voice/image input  
-- 🎯 **Vision Companion** – Real-time object detection using YOLOv5 and Flask  
-- 💬 **Empower** – Emotion-aware multilingual chatbot for women empowerment  
-- 📊 **Student Performance Analysis & Prediction using Machine Learning** –  
-  Explored data-driven approaches to identify key academic performance factors and predict outcomes effectively.  
+- 🔍 **Smart Kitchen Assistant**
+- 🎯 **Vision Companion** 
+- 💬 **Empower**  
+- 📊 **Student Performance Analysis & Prediction using Machine Learning**  
 
 ---
 
 ### 🌐 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:harshitha@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](www.linkedin.com/in/harshithabs1)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:harshithabs109@gmail.com)
 
 ---
 
